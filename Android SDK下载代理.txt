@@ -1,0 +1,3 @@
+android-mirror.bugly.qq.com
+
+8080
