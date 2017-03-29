@@ -1,0 +1,8 @@
+android通过adb方式  清楚系统垃圾
+
+查看分区大小
+df 
+目录下文件大小
+du -sh
+当前目录文件大小排序
+du -k | sort -rn >/storage/sdcard0/size.txt
