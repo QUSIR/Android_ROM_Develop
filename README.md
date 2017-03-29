@@ -1,1 +1,1 @@
-# Android_ROM_Develop
+# android系统ROM定制与开发相关教程和资料
